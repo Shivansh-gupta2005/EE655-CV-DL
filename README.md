@@ -7,37 +7,17 @@
 ## 📂 Directory Structure
 ```plaintext
 .
-├── Homework Assignment/
-├── Assignments/
-├── Project/
-├── Tasks/
-├── Data/
+├── Home Assignment/
 └── README.md
 ```
 
 ## 🔧 Prerequisites
 - Python 3.8+
-- Libraries: 
-  ```bash
-  pip install -r requirements.txt
-  ```
 
 ## 📑 Contents
 1. Homework Assignment
-   - Weekly problem sets
+   - Weekly problem sets solutions
    - Python notebook solutions
-
-2. Assignments
-   - Comprehensive coursework
-   - Advanced topic implementations
-
-3. Project
-   - Capstone project in Computer Vision/Deep Learning
-   - Detailed implementation and report
-
-4. Tasks
-   - Supplementary learning materials
-   - Additional exercises
 
 ## 🛠️ Technologies
 - Languages: Python
