@@ -1,7 +1,7 @@
 # EE655: Computer Vision and Deep Learning Repository
 
 ## Course Information
-- **Instructor**: Prof. Koteswar Jerripotula
+- **Instructor**: Prof. Koteswar Jerripothula
 - **Department**: Electrical Engineering, IIT Kanpur
 
 ## 📂 Directory Structure
