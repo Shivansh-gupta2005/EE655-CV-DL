@@ -7,7 +7,9 @@
 ## 📂 Directory Structure
 ```plaintext
 .
+├── Assignment/
 ├── Home Assignment/
+├── Satellite-Map CycleGAN Translator/
 └── README.md
 ```
 
@@ -15,9 +17,14 @@
 - Python 3.8+
 
 ## 📑 Contents
-1. Homework Assignment
+1. Assignment
+   - Course Assignments solutions
+2. Homework Assignment
    - Weekly problem sets solutions
    - Python notebook solutions
+3. Satellite-Map CycleGAN Translator
+   - Course Project Code
+   - Project Research Paper
 
 ## 🛠️ Technologies
 - Languages: Python
