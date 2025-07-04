@@ -43,8 +43,8 @@
 Academic use only
 
 ## 👤 Contact
-- **Name**: Vaibhav Itauriya
-- **Roll No**: 231115
+- **Name**: Shivansh Gupta
+- **Roll No**: 230976
 - **Department**: Mechanical Engineering
-- **Email**: vaibhav23@iitk.ac.in
+- **Email**:shivanshg23@iitk.ac.in
 - **Institution**: IIT Kanpur
